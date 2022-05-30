@@ -1,8 +1,10 @@
 ## 🦅 Olá! Eu sou o Anthony e tenho 19 anos 🦅
 
-- 💻 Técnico em Informática ✍ Formação IFMA - Campus de Açailândia
+- 🌐 Desenvovedor WordPress && 🛒 WorCormmerce
 
-- 👶🏼 Estou iniciando a minha carreira como desenvolver web
+- 💻 Técnico em Informática
+
+- ✍ Formação IFMA - Campus de Açailândia
 
 <div>
   <a href="https://github.com/anthonyKld">
