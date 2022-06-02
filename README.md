@@ -1,4 +1,4 @@
-## 🦅 Olá! Eu sou o Anthony e tenho 19 anos 🦅
+## Olá! Eu sou o Anthony...
 
 - 🌐 Desenvovedor WordPress && 🛒 WorCormmerce
 
