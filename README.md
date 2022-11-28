@@ -6,11 +6,7 @@
 
 - ✍ Formação IFMA - Campus de Açailândia
 
-<div align="left">
-  <a href="https://github.com/anthonyKld">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyKld&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyKld&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<!--
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Anthony-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
@@ -23,6 +19,7 @@
   <img align="center" alt="Anthony-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Anthony-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
+-->
   
   ##
   
