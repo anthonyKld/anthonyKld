@@ -12,11 +12,11 @@ jobs:
     steps:
       # Fazer o checkout do repositório para o runner do GitHub Actions
       - name: Fazer checkout do repositório
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Animação da Cobra
       - name: Gerar Animação da Cobra
-        uses: Platane/snk@master
+        uses: Platane/snk@v2.0.1
         id: snake-gif
         with:
           github_user_name: anthonyKld
@@ -24,7 +24,7 @@ jobs:
 
       # Deploy para o GitHub Pages
       - name: Fazer deploy para o GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4.0.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
