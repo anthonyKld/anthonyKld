@@ -3,10 +3,9 @@
 ## 😎 Sobre mim:
 👨🏾‍💻 Desenvolvedor Web Front-End<br>🚩 Criador de sites com Wordpress na Webcloud Agency<br>💻 Técnico em Informática<br>
 
-
 ## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anthony_kld/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthonytecinf) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anthony_kld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonytecinf)
 
 ## 💻 Tecnologia que uso com frequência:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,13 +22,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=anthonyKld&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anthonyKld&theme=tokyonight&hide_border=true)<br/>
 
-<!--
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=anthonyKld&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## ✅ Contribuições no último ano:
--
-  ![Snake animation](https://github.com/anthonyKld/anthonyKld/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/anthonyKld/anthonyKld/blob/output/github-contribution-grid-snake.svg)
