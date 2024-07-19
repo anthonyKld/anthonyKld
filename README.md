@@ -22,8 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=anthonyKld&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anthonyKld&theme=tokyonight&hide_border=true)<br/>
 
-## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=anthonyKld&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<!--
 ## ✅ Contribuições no último ano:
 ![Snake animation](https://github.com/anthonyKld/anthonyKld/blob/output/github-contribution-grid-snake.svg)
+-->
