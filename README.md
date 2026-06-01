@@ -94,7 +94,9 @@
 # 🎯 Objetivo:
 
 Criar soluções web modernas, intuitivas e eficientes, focadas em performance, experiência do usuário e automação de processos.
+
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonyKld/anthonyKld/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyKld/anthonyKld/output/snake.svg">
