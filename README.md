@@ -1,99 +1,52 @@
-# 👋🏾 Olá! Eu sou o Anthony Kildery
+# <img src="assets/icons/fontawesome/hand.svg" width="28" height="28" alt=""> Olá, eu sou Anthony Kildery
 
-## 💫 Sobre mim:
+### Desenvolvedor Web • PHP • Laravel • JavaScript
 
-💻 Programador Full Stack PHP<br>
-🚀 Desenvolvedor de sistemas web, dashboards e automações<br>
-🌐 Experiência com criação de sites institucionais, landing pages e e-commerce<br>
-🏢 Ex-Desenvolvedor Web na WebCloud Agency<br>
-🛠️ Atualmente desenvolvendo sistemas internos empresariais em PHP<br>
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)<br>
-💡 Apaixonado por tecnologia, UI/UX e soluções inteligentes<br>
-
----
-
-## 🌐 Social:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/anthony_kld)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/anthonytecinf)
+- <img src="assets/icons/fontawesome/laptop-code.svg" width="16" height="16" alt=""> Desenvolvedor Web com foco em **PHP e Front-End**
+- <img src="assets/icons/fontawesome/rocket.svg" width="16" height="16" alt=""> Desenvolvimento de **sistemas internos, dashboards e automações**
+- <img src="assets/icons/fontawesome/cart-shopping.svg" width="16" height="16" alt=""> Experiência com **WordPress, WooCommerce e e-commerce**
+- <img src="assets/icons/fontawesome/database.svg" width="16" height="16" alt=""> Trabalho com **MySQL/MariaDB**
+- <img src="assets/icons/fontawesome/graduation-cap.svg" width="16" height="16" alt=""> Cursando **Análise e Desenvolvimento de Sistemas**
+- <img src="assets/icons/fontawesome/book-open.svg" width="16" height="16" alt=""> Atualmente aprofundando conhecimentos em **Laravel, APIs, lógica e arquitetura de software**
+- <img src="assets/icons/fontawesome/seedling.svg" width="16" height="16" alt=""> Estudando também **React e C#/.NET**
 
 ---
 
-# 💻 Tecnologias que uso com frequência:
+## <img src="assets/icons/fontawesome/screwdriver-wrench.svg" width="22" height="22" alt=""> Tecnologias
 
-## 🌐 Front-End
+### Back-End
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge\&logo=jquery\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## ⚙️ Back-End
+### Front-End
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🗄️ Banco de Dados
+### Ferramentas
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-## 🌍 CMS & Ferramentas
-
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge\&logo=WooCommerce\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
-## 📊 Bibliotecas & Dashboards
-
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
-![DataTables](https://img.shields.io/badge/datatables-%23007ACC.svg?style=for-the-badge)
-![Leaflet](https://img.shields.io/badge/leaflet-%23199900.svg?style=for-the-badge\&logo=leaflet\&logoColor=white)
-
-## 🎨 Design & Edição
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge\&logo=gimp\&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ---
 
-# 🚀 Projetos e experiências:
+## <img src="assets/icons/fontawesome/thumbtack.svg" width="22" height="22" alt=""> Atualmente
 
-✅ Sistemas internos empresariais em PHP<br>
-✅ Sistemas de gerenciamento e controle de produção<br>
-✅ Dashboards administrativos com gráficos e indicadores<br>
-✅ Sistemas de agendamento online<br>
-✅ Plataformas com autenticação e controle de acesso<br>
-✅ Integrações com APIs e ERPs<br>
-✅ Sites institucionais modernos e responsivos<br>
-✅ Landing Pages focadas em conversão<br>
-✅ Sistemas administrativos personalizados<br>
-✅ Desenvolvimento de UI/UX para empresas e clínicas<br>
-
----
-
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyKld\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=anthonyKld\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=anthonyKld\&theme=tokyonight\&hide_border=true)
----
-
-# 🧠 Atualmente estudando:
-
-📚 Arquitetura de Software<br>
-📚 Laravel & APIs REST<br>
-📚 Segurança e autenticação<br>
-📚 UI/UX Design<br>
-📚 Sistemas Operacionais<br>
-
----
-
-# 🎯 Objetivo:
-
-Criar soluções web modernas, intuitivas e eficientes, focadas em performance, experiência do usuário e automação de processos.
+- <img src="assets/icons/fontawesome/graduation-cap.svg" width="16" height="16" alt=""> Análise e Desenvolvimento de Sistemas
+- <img src="assets/icons/fontawesome/laptop-code.svg" width="16" height="16" alt=""> PHP + Laravel
+- <img src="assets/icons/fontawesome/database.svg" width="16" height="16" alt=""> MySQL
+- <img src="assets/icons/fontawesome/gears.svg" width="16" height="16" alt=""> APIs REST e automações
+- <img src="assets/icons/fontawesome/brain.svg" width="16" height="16" alt=""> Lógica e algoritmos
+- <img src="assets/icons/fontawesome/globe.svg" width="16" height="16" alt=""> React
+- <img src="assets/icons/fontawesome/code.svg" width="16" height="16" alt=""> C# / .NET
 
 ---
 
@@ -102,3 +55,4 @@ Criar soluções web modernas, intuitivas e eficientes, focadas em performance, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyKld/anthonyKld/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anthonyKld/anthonyKld/output/snake.svg">
 </picture>
+
